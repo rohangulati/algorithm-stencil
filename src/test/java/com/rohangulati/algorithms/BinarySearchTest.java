@@ -1,4 +1,4 @@
-package com.rohangulati.templates;
+package com.rohangulati.algorithms;
 
 import org.junit.Test;
 
